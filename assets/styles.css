@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://i.imgur.com/OWG27KG.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: pink;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
